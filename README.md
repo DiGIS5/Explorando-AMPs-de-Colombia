@@ -5,12 +5,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=2.0">
-    <title>Detecciones de barcos pesqueros con AIS a partir de GFW y Skylight</title>
+    <title>por:Christian Diaz</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Aquí presento un ejemplo de la presencia de barcos pesqueros en Áreas Marinas Protegidas</h1>
+        <h1>Aquí presento un ejemplo de la presencia de barcos pesqueros en Áreas Marinas Protegidas utilizando la información sobre AIS de Global Fishing Watch y Skylight</h1>
     </header>
     <main>
         <section class="section" id="section1">
