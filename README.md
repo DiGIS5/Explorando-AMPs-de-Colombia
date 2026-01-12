@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Detecciones de barcos pesqueros con AIS a partir de GFW y Skylight</title>
+    <title> Detecciones de barcos pesqueros con AIS a partir de GFW y Skylight </title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -14,7 +14,7 @@
     </header>
     <main>
         <section class="section" id="section1">
-            <h2>Mapa general con algunas Áreas Marinas Protegidas de Colommbia</h2>
+            <h2>Mapa general con algunas Áreas Marinas Protegidas de Colombia</h2>
             <img src="Map1.png" alt="Image 1">
         </section>
         <section class="section" id="section2">
