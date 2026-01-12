@@ -4,13 +4,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>por:Christian Diaz</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Aquí presento un ejemplo de la presencia de barcos pesqueros en Áreas Marinas Protegidas utilizando la información sobre AIS de Global Fishing Watch y Skylight</h1>
+        <h1>Ejemplos de la presencia de barcos pesqueros en Áreas Marinas Protegidas utilizando la información sobre AIS de Global Fishing Watch y Skylight</h1>
     </header>
     <main>
         <section class="section" id="section1">
