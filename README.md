@@ -4,8 +4,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Detecciones de barcos pesqueros con AIS a partir de GFW y Skylight </title>
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <title>Detecciones de barcos pesqueros con AIS a partir de GFW y Skylight</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
