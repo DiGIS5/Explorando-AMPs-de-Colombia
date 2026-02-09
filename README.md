@@ -9,12 +9,12 @@
 </head>
 <body>
     <header>
-        <h1>Ejemplos de la presencia de barcos pesqueros en Áreas Marinas Protegidas utilizando la información sobre AIS de Global Fishing Watch y Skylight</h1>
+        <h1>Ejemplo: presencia de barcos pesqueros en Áreas Marinas Protegidas utilizando la información sobre AIS de Global Fishing Watch y Skylight</h1>
       <p>por: Christian Diaz </p>
     </header>
     <main>
         <section class="section" id="section1">
-            <h2>Mapa general con algunas Áreas Marinas Protegidas de Colombia</h2>
+            <h2>Mapa general de algunas Áreas Marinas Protegidas AMP de Colombia</h2>
             <img src="Map1.png" alt="Image 1">
         </section>
         <section class="section" id="section2">
