@@ -1,4 +1,4 @@
-# Explorando-AMPs-de-Colombia
+# Explorando AMPs de Colombia
  
 <!DOCTYPE html>
 <html lang="es">
